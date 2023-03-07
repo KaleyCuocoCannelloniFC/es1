@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\19ANDREALUCHETTA\Desktop\ANDREA LUCHETTA\.metadata\.plugins\org.eclipse.jdt.core
+3402584436.index
+1144479679.index
+2931363480.index
+1269537729.index
+1248231616.index
+1865797976.index
