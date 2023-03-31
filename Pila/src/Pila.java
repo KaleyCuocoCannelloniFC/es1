@@ -41,7 +41,7 @@ import java.util.*;
 	public boolean vuota()
 	{
 		if(elementi.size()>0)
-		{
+		{ daje roma
 			return false;
 		}
 		else {
