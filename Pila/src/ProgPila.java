@@ -10,7 +10,7 @@ public class ProgPila {
 		int resto;
 		Pila pila=new Pila();
 		Integer rest;
-		int num;
+		int num;kk
 		
 		
 		System.out.println("Inserisci il numero da convertire");
